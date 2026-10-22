@@ -1,9 +1,12 @@
 'use client';
 
+import { WHATSAPP_NUMBER } from '../lib/contactConfig';
+
+
 import WhatsAppIcon from './WhatsAppIcon';
 
 export default function FloatingActions({ whatsappLabel = 'WhatsApp' }) {
-  const number = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '';
+  const number = WHATSAPP_NUMBER;
   const waHref = number ? `https://wa.me/${number.replace(/\D/g, '')}` : null;
 
   return (

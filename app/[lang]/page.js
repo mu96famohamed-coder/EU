@@ -1,3 +1,4 @@
+import { WHATSAPP_NUMBER } from '../../lib/contactConfig';
 import {identitySchema} from '../../lib/contentIdentity';
 import {websiteSchema} from '../../lib/seo';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export default async function Home({ params }) {
  const {lang}=await params; const m=await getM(lang); const u=getUi(lang); const categories=getCategories(lang); const about=aboutCopy[lang]||aboutCopy.en;
  const services=categories.flatMap(c=>getCategoryServices(c.id,m,lang));
  const searchIndex=getServiceSearchIndex(lang);
- const waNumber=process.env.NEXT_PUBLIC_WHATSAPP_NUMBER||'';
+ const waNumber=WHATSAPP_NUMBER;
  const waHref=waNumber?`https://wa.me/${waNumber.replace(/\D/g,'')}`:'';
  const ld=[identitySchema(lang),websiteSchema(),
  {'@context':'https://schema.org','@type':'ItemList',name:m.sh,itemListElement:services.map((s,i)=>({'@type':'ListItem',position:i+1,name:s.title,url:`${DOMAIN}/${lang}/services/${s.slug}`}))}];

@@ -1,8 +1,9 @@
+import { WHATSAPP_NUMBER } from '../lib/contactConfig';
 import Link from 'next/link';
 import WhatsAppIcon from './WhatsAppIcon';
 const emailLabels = {"ar": "إرسال بريد إلكتروني", "en": "Send an email", "sv": "Skicka e-post", "de": "E-Mail senden", "fr": "Envoyer un e-mail", "es": "Enviar correo", "it": "Invia un’e-mail", "nl": "E-mail sturen", "da": "Send e-mail", "no": "Send e-post", "fi": "Lähetä sähköposti", "pt": "Enviar e-mail", "pl": "Wyślij e-mail", "cs": "Poslat e-mail", "sk": "Poslať e-mail", "ro": "Trimite e-mail", "hu": "E-mail küldése", "bg": "Изпратете имейл", "el": "Αποστολή email", "et": "Saada e-kiri", "hr": "Pošaljite e-poštu", "ru": "Написать письмо", "lt": "Siųsti el. laišką", "lv": "Sūtīt e-pastu", "is": "Senda tölvupóst", "mt": "Ibgħat email", "sl": "Pošlji e-pošto", "tr": "E-posta gönder", "ga": "Seol ríomhphost", "sr": "Пошаљите имејл", "uk": "Надіслати лист", "sq": "Dërgo email"};
 export default function GuideContactActions({lang}) {
-  const number = (process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '').replace(/\D/g, '');
+  const number = (WHATSAPP_NUMBER).replace(/\D/g, '');
   const url = number ? `https://wa.me/${number}` : null;
   return <div className="guide-contact-actions">
     {url ? <a className="btn whatsapp-site-cta guide-whatsapp" href={url} target="_blank" rel="noopener noreferrer"><WhatsAppIcon/><span>WhatsApp</span></a> : <span className="btn whatsapp-site-cta guide-whatsapp whatsapp-disabled" aria-disabled="true"><WhatsAppIcon/><span>WhatsApp</span></span>}

@@ -1,3 +1,4 @@
+import { WHATSAPP_NUMBER } from '../../../../lib/contactConfig';
 import scopeCopy from '../../../../lib/serviceScopeCopy.json';
 import {getServiceSeo} from '../../../../lib/serviceSeo';
 import {identitySchema,IDENTITY_ID} from '../../../../lib/contentIdentity';
@@ -34,7 +35,7 @@ export async function generateMetadata({params}){
 
 export default async function ServicePage({params}){
  const {lang,slug}=await params,m=await getM(lang),u=getUi(lang),service=getService(m,slug,lang);if(!service)notFound();
- const waNumber=process.env.NEXT_PUBLIC_WHATSAPP_NUMBER||'';
+ const waNumber=WHATSAPP_NUMBER;
  const waHref=waNumber?`https://wa.me/${waNumber.replace(/\D/g,'')}?text=${encodeURIComponent(service.title)}`:'';
  const content=getServiceContent(slug,lang),all=getServices(m,lang),research=getResearch(slug),category=getCategories(lang).find(c=>c.id===service.category),url=absolute(lang,`/services/${slug}`),L=labels(lang,u,m),market=marketProfiles[lang]||marketProfiles.en;
  const semanticTargets=(semanticLinkMap[slug]||[]).filter(x=>x!==slug);

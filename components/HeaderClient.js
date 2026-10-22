@@ -1,5 +1,8 @@
 'use client';
 
+import { WHATSAPP_NUMBER } from '../lib/contactConfig';
+
+
 import WhatsAppIcon from './WhatsAppIcon';
 import {useEffect,useRef,useState} from 'react';
 import Link from 'next/link';
@@ -12,7 +15,7 @@ export default function HeaderClient({lang,m,u,t,categories,services,aboutTitle}
  const text=value=>typeof value==='string'?value.replace(/(?:\s*\u2014\s*|\s+\u2013\s+)/g,lang==='ar'?'، ':', '):value;
  const [open,setOpen]=useState(null),[mobile,setMobile]=useState(false),[menuTop,setMenuTop]=useState(76);
  const shell=useRef(null),router=useRouter(),path=usePathname();
- const waNumber=(process.env.NEXT_PUBLIC_WHATSAPP_NUMBER||'').replace(/\D/g,'');
+ const waNumber=(WHATSAPP_NUMBER).replace(/\D/g,'');
  const waHref=waNumber?`https://wa.me/${waNumber}`:null;
  const waLabel=text(m.wa||'WhatsApp');
  const whatsappIcon=<WhatsAppIcon className="lux-whatsapp-icon"/>;

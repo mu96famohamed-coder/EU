@@ -1,3 +1,4 @@
+import { WHATSAPP_NUMBER } from '../../../../lib/contactConfig';
 import {identitySchema,IDENTITY_ID,articleAuthorSchema,getArticleSources,getEditorialCopy,getArticleBody} from '../../../../lib/contentIdentity';
 import {defaultSocialImages} from '../../../../lib/seo';
 import Link from 'next/link';
@@ -35,7 +36,7 @@ export default async function Article({ params }) {
   const m = await getM(lang);
   const u = getUi(lang);
   const sources=getArticleSources(post,lang),editorial=getEditorialCopy(lang);
-  const waNumber = (process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '').replace(/\D/g, '');
+  const waNumber = (WHATSAPP_NUMBER).replace(/\D/g, '');
   const waHref = waNumber ? `https://wa.me/${waNumber}?text=${encodeURIComponent(post.title)}` : '';
   const url = `${DOMAIN}/${lang}/blog/${slug}`;
   const ld = {

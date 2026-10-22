@@ -27,3 +27,17 @@ Apostille, legalisation and attestation are deliberately separate services becau
 - Sweden's Apostille competent authorities are Notaries Public (Notarius Publicus).
 - `lib/apostille.js` separates origin scope from destination SEO so new origin countries can be enabled later without restructuring routes.
 - Before publishing/processing a case, verify current HCCH status, bilateral applicability, document type and receiving-authority requirements.
+
+## WhatsApp configuration
+
+All WhatsApp buttons use `WHATSAPP_NUMBER` from `lib/contactConfig.js`.
+The public default is `971541303166`; edit it there to change the source default.
+You can override it with `NEXT_PUBLIC_WHATSAPP_NUMBER` in Vercel (Production).
+Redeploy after changing either the source default or the environment variable.
+A missing or empty override falls back to the source default, so a fresh project
+does not depend on `.env.local`, which is intentionally ignored by Git.
+
+The npm `Unknown env config "cache-dir"` warning is not configured in this
+project. If it persists, check the build environment for `npm_config_cache_dir`
+or `NPM_CONFIG_CACHE_DIR`; remove it or use the supported `npm_config_cache`
+setting. This warning alone is not a build failure.

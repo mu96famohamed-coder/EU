@@ -14,7 +14,7 @@ if(!linker.includes("PROTECTED_BRAND_NAMES=['POA Dubai']"))errors.push('central 
 if(!service.includes('findContextualSpan(part,phrase,lang)'))errors.push('service contextual linker not using central protected matcher');
 if(!linker.includes('isProtectedBrandPhrase(phrase)'))errors.push('brand phrase not excluded from anchors');
 if(!page.includes('<HeroServiceSearch'))errors.push('hero service search missing');
-if(!page.includes('NEXT_PUBLIC_WHATSAPP_NUMBER'))errors.push('central WhatsApp env missing');
+if(!page.includes('WHATSAPP_NUMBER'))errors.push('central WhatsApp configuration missing');
 if(!page.includes('whatsapp-primary'))errors.push('primary WhatsApp CTA missing');
 if(!search.includes('noResultsTitle')||!search.includes('noResultsText'))errors.push('no-results contact route missing');
 if(!search.includes('keywords'))errors.push('search does not use localized keywords');

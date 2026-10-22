@@ -1,0 +1,24 @@
+{
+  "name": "poa-dubai",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "audit:locales": "node scripts/audit-locales.cjs",
+    "audit:prelaunch": "node scripts/audit-prelaunch.cjs",
+    "audit:all": "node scripts/audit-locales.cjs && node scripts/audit-final-1620.cjs && node scripts/audit-semantic-link-consistency.cjs && node scripts/audit-central-ui.cjs && node scripts/audit-prelaunch.cjs && node scripts/audit-service-availability.cjs",
+    "audit:availability": "node scripts/audit-service-availability.cjs",
+    "audit:about": "node scripts/audit-about-footer.cjs",
+    "audit:faq-content": "node scripts/audit-faq-content.cjs",
+    "blog:check": "node scripts/check-blog.mjs",
+    "predev": "node scripts/sync-blog-images.mjs",
+    "prebuild": "node scripts/sync-blog-images.mjs",
+    "blog:images": "node scripts/sync-blog-images.mjs"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

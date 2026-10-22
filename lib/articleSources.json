@@ -1,0 +1,153 @@
+{
+  "sources": {
+    "dubai-notary": {
+      "name": "Dubai Courts: Smart Electronic Notary",
+      "url": "https://dc.gov.ae/PublicServices/CMSPage.aspx?PageName=SmartElectronicNotary&lang=en"
+    },
+    "mofa": {
+      "name": "UAE Ministry of Foreign Affairs: Documents Attestation",
+      "url": "https://www.mofa.gov.ae/en/Services/attestation"
+    },
+    "land-sale": {
+      "name": "Dubai Land Department: Property Sale Registration",
+      "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/"
+    },
+    "land-faq": {
+      "name": "Dubai Land Department: Frequently Asked Questions",
+      "url": "https://dubailand.gov.ae/en/frequently-asked-questions"
+    },
+    "vehicle": {
+      "name": "Roads and Transport Authority: Vehicle Ownership Transfer",
+      "url": "https://rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=600"
+    },
+    "translator": {
+      "name": "UAE Ministry of Justice: Registration of Legal Translator",
+      "url": "https://www.moj.gov.ae/en/services/services-categories/experts-and-legal-translators/registration-of-legal-translator-a9314f86.aspx"
+    },
+    "bank-authority": {
+      "name": "Central Bank of the UAE: Persons Acting on Behalf of the Customer",
+      "url": "https://rulebook.centralbank.ae/en/rulebook/323-natural-persons-acting-behalf-customer"
+    },
+    "children": {
+      "name": "Emirates: Unaccompanied Minors",
+      "url": "https://www.emirates.com/english/family/planning-your-family-trip/unaccompanied-minors/"
+    },
+    "land-revocation": {
+      "name": "Dubai Land Department: Power of Attorney Cancellation",
+      "url": "https://dubailand.gov.ae/en/eservices/request-for-revocation-of-power-of-attorney/"
+    },
+    "moj-cancellation": {
+      "name": "UAE Ministry of Justice: Cancellation of Contracts and Deeds",
+      "url": "https://www.moj.gov.ae/ar/services/services-categories/notary-public-and-authentication/cancellation-of-contracts-and-deeds-def0e3bb.aspx"
+    },
+    "etihad": {
+      "name": "Etihad Airways: Unaccompanied Minors",
+      "url": "https://www.etihad.com/en-us/plan/travel-companion/unaccompanied-minors"
+    },
+    "eu-minors": {
+      "name": "Your Europe: Travel Documents for Minors",
+      "url": "https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm"
+    },
+    "ejari": {
+      "name": "Dubai Land Department: Register / Renew Tenancy Contract",
+      "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/"
+    },
+    "nbd-poa": {
+      "name": "Emirates NBD: Adding a Power of Attorney Holder",
+      "url": "https://www.emiratesnbd.com/en/accounts/savings-accounts/skywards-savings-account"
+    }
+  },
+  "articles": {
+    "uae-poa-abroad-signing-options": [
+      "dubai-notary",
+      "mofa",
+      "translator"
+    ],
+    "general-or-special-poa-uae": [
+      "dubai-notary",
+      "land-faq",
+      "bank-authority"
+    ],
+    "sell-dubai-property-from-abroad-checklist": [
+      "land-sale",
+      "land-faq",
+      "dubai-notary",
+      "mofa"
+    ],
+    "manage-dubai-property-without-sale-powers": [
+      "dubai-notary",
+      "land-faq",
+      "ejari"
+    ],
+    "sell-uae-car-while-abroad": [
+      "vehicle",
+      "dubai-notary"
+    ],
+    "foreign-document-mofa-attestation-uae-guide": [
+      "mofa"
+    ],
+    "arabic-legal-translation-uae-documents": [
+      "translator",
+      "dubai-notary",
+      "mofa"
+    ],
+    "company-poa-board-resolution-uae": [
+      "dubai-notary",
+      "mofa",
+      "bank-authority"
+    ],
+    "cancel-uae-poa-from-abroad-notification": [
+      "land-revocation",
+      "moj-cancellation",
+      "dubai-notary",
+      "mofa"
+    ],
+    "uae-bank-account-poa-from-abroad": [
+      "bank-authority",
+      "dubai-notary",
+      "translator",
+      "mofa"
+    ],
+    "child-travel-consent-uae-one-parent-guide": [
+      "children",
+      "etihad",
+      "eu-minors",
+      "translator",
+      "mofa"
+    ]
+  },
+  "legacyHeadings": [
+    "Ametlikud allikad",
+    "Burime zyrtare",
+    "Foinsí oifigiúla",
+    "Hivatalos források",
+    "Official reference points",
+    "Officiella referenser",
+    "Officielle kilder",
+    "Officiële informatiebronnen",
+    "Offisielle kilder",
+    "Offizielle Informationsquellen",
+    "Oficialūs šaltiniai",
+    "Oficiálne zdroje",
+    "Oficiální zdroje",
+    "Oficiālie avoti",
+    "Oficjalne źródła",
+    "Opinberar heimildir",
+    "Referencias oficiales",
+    "Referências oficiais",
+    "Resmî kaynaklar",
+    "Riferimenti ufficiali",
+    "Références officielles",
+    "Službeni izvori",
+    "Sorsi uffiċjali",
+    "Surse oficiale",
+    "Uradni viri",
+    "Viralliset lähteet",
+    "Zvanični izvori",
+    "Επίσημες πηγές",
+    "Официални източници",
+    "Официальные источники",
+    "Офіційні джерела",
+    "مراجع رسمية للمراجعة"
+  ]
+}

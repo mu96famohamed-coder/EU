@@ -1,0 +1,135 @@
+{
+  "general-power-of-attorney": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "special-power-of-attorney": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "power-of-attorney-from-abroad": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "poa-online-notarisation": [
+    "certified-translation"
+  ],
+  "poa-revocation-cancellation": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "court-representation-poa": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "inheritance-power-of-attorney": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "child-travel-consent-poa": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "bank-account-power-of-attorney": [
+    "poa-online-notarisation",
+    "certified-translation"
+  ],
+  "property-sale-poa": [
+    "certified-translation"
+  ],
+  "property-purchase-poa": [
+    "certified-translation"
+  ],
+  "property-management-poa": [
+    "certified-translation"
+  ],
+  "property-handover-poa": [
+    "certified-translation"
+  ],
+  "property-gift-transfer": [
+    "certified-translation"
+  ],
+  "corporate-power-of-attorney": [
+    "certified-translation",
+    "contract-notarisation"
+  ],
+  "company-incorporation-poa": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "company-management-poa": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "company-shares-poa": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "vat-tax-poa": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "moa-drafting-notarisation": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "moa-amendment": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "board-resolution-notarisation": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "share-sale-assignment": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "company-liquidation-documents": [
+    "corporate-power-of-attorney",
+    "certified-translation"
+  ],
+  "vehicle-power-of-attorney": [
+    "poa-online-notarisation"
+  ],
+  "vehicle-sale-poa": [
+    "vehicle-power-of-attorney",
+    "poa-online-notarisation"
+  ],
+  "vehicle-purchase-poa": [
+    "vehicle-power-of-attorney",
+    "poa-online-notarisation"
+  ],
+  "vehicle-export-poa": [
+    "vehicle-power-of-attorney",
+    "poa-online-notarisation"
+  ],
+  "contract-notarisation": [
+    "certified-translation"
+  ],
+  "affidavits-declarations": [
+    "certified-translation"
+  ],
+  "debt-acknowledgement": [
+    "certified-translation"
+  ],
+  "signature-approval": [
+    "certified-translation"
+  ],
+  "legal-notices": [
+    "certified-translation"
+  ],
+  "non-muslim-wills": [
+    "certified-translation"
+  ],
+  "fast-track-notary": [
+    "certified-translation"
+  ],
+  "apostille": [
+    "certified-translation"
+  ],
+  "certified-true-copy": [
+    "certified-translation"
+  ],
+  "certified-translation": []
+}

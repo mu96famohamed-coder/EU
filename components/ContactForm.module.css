@@ -1,0 +1,121 @@
+.form,
+.form label,
+.form input,
+.form textarea,
+.form :global(.field-row),
+.serviceField {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.form :global(.field-row) {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.picker {
+  position: relative;
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+  width: 100%;
+  color-scheme: light;
+}
+
+.picker .trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 50px;
+  box-sizing: border-box;
+  border: 1px solid #d8d5ce;
+  background: #fff;
+  color: #0b1726;
+  padding: 13px 14px;
+  font: 400 16px/1.4 system-ui, sans-serif;
+  text-align: start;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+.trigger span {
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.trigger svg {
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+}
+
+.picker .trigger:focus-visible {
+  outline: 2px solid #a98447;
+  outline-offset: 2px;
+}
+
+.options {
+  position: absolute;
+  z-index: 30;
+  inset-inline: 0;
+  top: calc(100% + 4px);
+  margin: 0;
+  padding: 4px;
+  list-style: none;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  max-height: min(280px, 40vh);
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  border: 1px solid #d8d5ce;
+  border-radius: 4px;
+  background: #fff;
+  color: #0b1726;
+  box-shadow: 0 8px 24px rgba(16, 35, 56, .12);
+  text-align: start;
+}
+
+.options li {
+  display: block;
+  padding: 11px 12px;
+  margin: 0;
+  min-width: 0;
+  font: 400 16px/1.4 system-ui, sans-serif;
+  color: #0b1726;
+  background: #fff;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  cursor: pointer;
+}
+
+.options li[data-active="true"],
+.options li[aria-selected="true"] {
+  background: #f0e8d9;
+}
+
+@media (max-width: 760px) {
+  .form :global(.field-row) { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Outside the visual flow and inaccessible to keyboard / assistive technology. */
+.botTrap {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  pointer-events: none;
+}

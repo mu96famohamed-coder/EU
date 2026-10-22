@@ -1,0 +1,265 @@
+{
+  "en": {
+    "send": "Send enquiry",
+    "sending": "Sending…",
+    "success": "Your message has been sent successfully.",
+    "error": "Your message could not be sent. Please try again later or contact us by email.",
+    "chooseService": "Select a service",
+    "other": "Other"
+  },
+  "ar": {
+    "send": "إرسال الطلب",
+    "sending": "جارٍ الإرسال…",
+    "success": "تم إرسال رسالتك بنجاح.",
+    "error": "تعذّر إرسال الرسالة. يرجى المحاولة لاحقًا أو التواصل معنا عبر البريد الإلكتروني.",
+    "chooseService": "اختر الخدمة",
+    "other": "أخرى"
+  },
+  "de": {
+    "send": "Anfrage senden",
+    "sending": "Wird gesendet…",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet.",
+    "error": "Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns per E-Mail.",
+    "chooseService": "Dienstleistung auswählen",
+    "lead": "Vollmachten, rechtliche Mitteilungen und Beglaubigungen in den VAE, für Sie erstellt, eingereicht und nachverfolgt. Einige behördliche Schritte können Identitätsprüfung, Anwesenheit oder Zustellung erfordern, wie von der Behörde festgelegt.",
+    "other": "Sonstiges"
+  },
+  "fr": {
+    "send": "Envoyer la demande",
+    "sending": "Envoi en cours…",
+    "success": "Votre message a bien été envoyé.",
+    "error": "Votre message n’a pas pu être envoyé. Veuillez réessayer plus tard ou nous contacter par e-mail.",
+    "chooseService": "Choisissez un service",
+    "other": "Autre"
+  },
+  "es": {
+    "send": "Enviar solicitud",
+    "sending": "Enviando…",
+    "success": "Tu mensaje se ha enviado correctamente.",
+    "error": "No se ha podido enviar tu mensaje. Inténtalo de nuevo más tarde o contacta con nosotros por correo electrónico.",
+    "chooseService": "Selecciona un servicio",
+    "other": "Otro"
+  },
+  "it": {
+    "send": "Invia la richiesta",
+    "sending": "Invio in corso…",
+    "success": "Il tuo messaggio è stato inviato correttamente.",
+    "error": "Non è stato possibile inviare il messaggio. Riprova più tardi o contattaci via email.",
+    "chooseService": "Seleziona un servizio",
+    "other": "Altro"
+  },
+  "pt": {
+    "send": "Enviar pedido",
+    "sending": "A enviar…",
+    "success": "A sua mensagem foi enviada com sucesso.",
+    "error": "Não foi possível enviar a sua mensagem. Tente novamente mais tarde ou contacte-nos por e-mail.",
+    "chooseService": "Selecione um serviço",
+    "other": "Outro"
+  },
+  "nl": {
+    "send": "Aanvraag versturen",
+    "sending": "Bezig met versturen…",
+    "success": "Uw bericht is verzonden.",
+    "error": "Uw bericht kon niet worden verzonden. Probeer het later opnieuw of neem per e-mail contact met ons op.",
+    "chooseService": "Selecteer een dienst",
+    "other": "Anders"
+  },
+  "pl": {
+    "send": "Wyślij zapytanie",
+    "sending": "Wysyłanie…",
+    "success": "Twoja wiadomość została wysłana.",
+    "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie później lub skontaktuj się z nami e-mailem.",
+    "chooseService": "Wybierz usługę",
+    "other": "Inne"
+  },
+  "sv": {
+    "send": "Skicka förfrågan",
+    "sending": "Skickar…",
+    "success": "Ditt meddelande har skickats.",
+    "error": "Det gick inte att skicka meddelandet. Försök igen senare eller kontakta oss via e-post.",
+    "chooseService": "Välj en tjänst",
+    "lead": "Fullmakter, underrättelser och legalisering i Förenade Arabemiraten, upprättade, inlämnade och uppföljda åt dig. Vissa officiella steg kan kräva identitetskontroll, närvaro eller leverans enligt myndighetens krav.",
+    "other": "Annat"
+  },
+  "ro": {
+    "send": "Trimite solicitarea",
+    "sending": "Se trimite…",
+    "success": "Mesajul tău a fost trimis cu succes.",
+    "error": "Mesajul nu a putut fi trimis. Încearcă din nou mai târziu sau contactează-ne prin e-mail.",
+    "chooseService": "Alege un serviciu",
+    "other": "Altul"
+  },
+  "el": {
+    "send": "Αποστολή αιτήματος",
+    "sending": "Αποστολή σε εξέλιξη…",
+    "success": "Το μήνυμά σας στάλθηκε με επιτυχία.",
+    "error": "Δεν ήταν δυνατή η αποστολή του μηνύματός σας. Δοκιμάστε ξανά αργότερα ή επικοινωνήστε μαζί μας μέσω email.",
+    "chooseService": "Επιλέξτε υπηρεσία",
+    "other": "Άλλο"
+  },
+  "cs": {
+    "send": "Odeslat dotaz",
+    "sending": "Odesílání…",
+    "success": "Vaše zpráva byla úspěšně odeslána.",
+    "error": "Zprávu se nepodařilo odeslat. Zkuste to prosím později nebo nás kontaktujte e-mailem.",
+    "chooseService": "Vyberte službu",
+    "other": "Jiné"
+  },
+  "da": {
+    "send": "Send forespørgsel",
+    "sending": "Sender…",
+    "success": "Din besked er sendt.",
+    "error": "Beskeden kunne ikke sendes. Prøv igen senere, eller kontakt os via e-mail.",
+    "chooseService": "Vælg en ydelse",
+    "other": "Andet"
+  },
+  "fi": {
+    "send": "Lähetä tiedustelu",
+    "sending": "Lähetetään…",
+    "success": "Viestisi on lähetetty onnistuneesti.",
+    "error": "Viestiä ei voitu lähettää. Yritä myöhemmin uudelleen tai ota meihin yhteyttä sähköpostitse.",
+    "chooseService": "Valitse palvelu",
+    "other": "Muu"
+  },
+  "hu": {
+    "send": "Érdeklődés elküldése",
+    "sending": "Küldés folyamatban…",
+    "success": "Üzenetét sikeresen elküldtük.",
+    "error": "Az üzenetet nem sikerült elküldeni. Kérjük, próbálja újra később, vagy lépjen kapcsolatba velünk e-mailben.",
+    "chooseService": "Válasszon szolgáltatást",
+    "other": "Egyéb"
+  },
+  "bg": {
+    "send": "Изпратете запитване",
+    "sending": "Изпращане…",
+    "success": "Съобщението ви беше изпратено успешно.",
+    "error": "Съобщението не можа да бъде изпратено. Моля, опитайте отново по-късно или се свържете с нас по имейл.",
+    "chooseService": "Изберете услуга",
+    "other": "Друго"
+  },
+  "hr": {
+    "send": "Pošaljite upit",
+    "sending": "Slanje…",
+    "success": "Vaša je poruka uspješno poslana.",
+    "error": "Poruku nije bilo moguće poslati. Pokušajte ponovno kasnije ili nam se obratite e-poštom.",
+    "chooseService": "Odaberite uslugu",
+    "lead": "Punomoći, obavijesti i ovjere u UAE-u, pripremamo i podnosimo dokumente te pratimo postupak za vas. Neki službeni koraci mogu zahtijevati provjeru identiteta, prisustvo ili dostavu prema pravilima nadležnog tijela.",
+    "other": "Ostalo"
+  },
+  "sk": {
+    "send": "Odoslať dopyt",
+    "sending": "Odosielanie…",
+    "success": "Vaša správa bola úspešne odoslaná.",
+    "error": "Správu sa nepodarilo odoslať. Skúste to prosím neskôr alebo nás kontaktujte e-mailom.",
+    "chooseService": "Vyberte službu",
+    "lead": "Plnomocenstvá, právne oznámenia a overenia dokumentov v SAE, pripravené, podané a sledované za vás. Niektoré úradné kroky môžu vyžadovať overenie totožnosti, osobnú účasť alebo doručenie podľa požiadaviek príslušného orgánu.",
+    "other": "Iné"
+  },
+  "sl": {
+    "send": "Pošljite povpraševanje",
+    "sending": "Pošiljanje…",
+    "success": "Vaše sporočilo je bilo uspešno poslano.",
+    "error": "Sporočila ni bilo mogoče poslati. Poskusite znova pozneje ali nas kontaktirajte po e-pošti.",
+    "chooseService": "Izberite storitev",
+    "lead": "Pooblastila, pravna obvestila in overitve v ZAE, pripravljeni, predloženi in spremljani namesto vas. Nekateri uradni postopki lahko zahtevajo preverjanje identitete, prisotnost ali dostavo v skladu z zahtevami pristojnega organa.",
+    "other": "Drugo"
+  },
+  "et": {
+    "send": "Saada päring",
+    "sending": "Saatmine…",
+    "success": "Teie sõnum on saadetud.",
+    "error": "Sõnumit ei õnnestunud saata. Proovige hiljem uuesti või võtke meiega ühendust e-posti teel.",
+    "chooseService": "Valige teenus",
+    "lead": "Volikirjad, teated ja dokumentide kinnitamine AÜE-s, aitame teil dokumendid ette valmistada, esitada ja nende menetlemist jälgida. Mõned ametlikud sammud võivad nõuda isikutuvastust, kohalolekut või dokumendi kättetoimetamist vastavalt asjaomase asutuse nõuetele.",
+    "other": "Muu"
+  },
+  "lv": {
+    "send": "Nosūtīt pieprasījumu",
+    "sending": "Nosūtīšana…",
+    "success": "Jūsu ziņojums ir veiksmīgi nosūtīts.",
+    "error": "Ziņojumu neizdevās nosūtīt. Lūdzu, mēģiniet vēlāk vai sazinieties ar mums pa e-pastu.",
+    "chooseService": "Izvēlieties pakalpojumu",
+    "other": "Cits"
+  },
+  "lt": {
+    "send": "Siųsti užklausą",
+    "sending": "Siunčiama…",
+    "success": "Jūsų žinutė sėkmingai išsiųsta.",
+    "error": "Žinutės išsiųsti nepavyko. Bandykite dar kartą vėliau arba susisiekite su mumis el. paštu.",
+    "chooseService": "Pasirinkite paslaugą",
+    "other": "Kita"
+  },
+  "mt": {
+    "send": "Ibgħat it-talba",
+    "sending": "Qed jintbagħat…",
+    "success": "Il-messaġġ tiegħek intbagħat b’suċċess.",
+    "error": "Il-messaġġ ma setax jintbagħat. Jekk jogħġbok erġa’ pprova aktar tard jew ikkuntattjana bl-email.",
+    "chooseService": "Agħżel servizz",
+    "other": "Oħra"
+  },
+  "ga": {
+    "send": "Seol fiosrúchán",
+    "sending": "Á sheoladh…",
+    "success": "Seoladh do theachtaireacht go rathúil.",
+    "error": "Níorbh fhéidir do theachtaireacht a sheoladh. Bain triail eile as níos déanaí nó déan teagmháil linn trí ríomhphost.",
+    "chooseService": "Roghnaigh seirbhís",
+    "lead": "Cumhachtaí aturnae, fógraí agus fíordheimhniú doiciméad san AEA, ullmhaímid na doiciméid, cuirimid isteach iad agus déanaimid obair leantach ar do shon. D’fhéadfadh go mbeadh fíorú aitheantais, freastal nó seachadadh ag teastáil ar roinnt céimeanna oifigiúla de réir mar a leagann an t-údarás iad síos.",
+    "other": "Eile"
+  },
+  "no": {
+    "send": "Send forespørsel",
+    "sending": "Sender…",
+    "success": "Meldingen din er sendt.",
+    "error": "Meldingen kunne ikke sendes. Prøv igjen senere eller kontakt oss på e-post.",
+    "chooseService": "Velg en tjeneste",
+    "other": "Annet"
+  },
+  "tr": {
+    "send": "Talebi gönderin",
+    "sending": "Gönderiliyor…",
+    "success": "Mesajınız başarıyla gönderildi.",
+    "error": "Mesajınız gönderilemedi. Lütfen daha sonra tekrar deneyin veya e-posta yoluyla bizimle iletişime geçin.",
+    "chooseService": "Bir hizmet seçin",
+    "other": "Diğer"
+  },
+  "sr": {
+    "send": "Pošaljite upit",
+    "sending": "Slanje…",
+    "success": "Vaša poruka je uspešno poslata.",
+    "error": "Poruku nije bilo moguće poslati. Pokušajte ponovo kasnije ili nam se obratite imejlom.",
+    "chooseService": "Izaberite uslugu",
+    "other": "Ostalo"
+  },
+  "uk": {
+    "send": "Надіслати запит",
+    "sending": "Надсилання…",
+    "success": "Ваше повідомлення успішно надіслано.",
+    "error": "Не вдалося надіслати повідомлення. Спробуйте пізніше або зв’яжіться з нами електронною поштою.",
+    "chooseService": "Виберіть послугу",
+    "other": "Інше"
+  },
+  "sq": {
+    "send": "Dërgoni kërkesën",
+    "sending": "Duke dërguar…",
+    "success": "Mesazhi juaj u dërgua me sukses.",
+    "error": "Mesazhi nuk mund të dërgohej. Ju lutemi provoni përsëri më vonë ose na kontaktoni me email.",
+    "chooseService": "Zgjidhni një shërbim",
+    "other": "Tjetër"
+  },
+  "is": {
+    "send": "Senda fyrirspurn",
+    "sending": "Sendi…",
+    "success": "Skilaboðin þín hafa verið send.",
+    "error": "Ekki tókst að senda skilaboðin. Reyndu aftur síðar eða hafðu samband við okkur með tölvupósti.",
+    "chooseService": "Veldu þjónustu",
+    "other": "Annað"
+  },
+  "ru": {
+    "send": "Отправить запрос",
+    "sending": "Отправка…",
+    "success": "Ваше сообщение успешно отправлено.",
+    "error": "Не удалось отправить сообщение. Попробуйте позже или свяжитесь с нами по электронной почте.",
+    "chooseService": "Выберите услугу",
+    "other": "Другое"
+  }
+}

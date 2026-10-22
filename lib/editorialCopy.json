@@ -1,0 +1,290 @@
+{
+  "en": {
+    "title": "About our content",
+    "intro": "POA DUBAI publishes practical guides to powers of attorney and document procedures for UAE matters, for readers in the UAE and abroad.",
+    "method": "Our guides draw on official sources and explain preparation steps, document requirements and service routes. Relevant sources are linked within each guide so you can check the requirements for your document and intended use.",
+    "sourcesTitle": "Sources and further information",
+    "bankSource": "Central Bank of the UAE",
+    "childrenSource": "Emirates: children travelling alone",
+    "sourcesFAQ": "Frequently asked questions"
+  },
+  "ar": {
+    "title": "عن محتوى الموقع",
+    "intro": "ينشر POA DUBAI أدلة عملية عن الوكالات وإجراءات المستندات للمعاملات المرتبطة بالإمارات، للقارئ داخل الإمارات وخارجها.",
+    "method": "تعتمد أدلتنا على المصادر الرسمية وتوضح خطوات التحضير ومتطلبات المستندات ومسارات الخدمة. نضع المصادر ذات الصلة مع كل دليل لتتمكن من مراجعة المتطلبات المناسبة لمستندك والغرض من استخدامه.",
+    "sourcesTitle": "المصادر ومعلومات إضافية",
+    "bankSource": "مصرف الإمارات العربية المتحدة المركزي",
+    "childrenSource": "طيران الإمارات: الأطفال المسافرون دون مرافق",
+    "sourcesFAQ": "الأسئلة الشائعة"
+  },
+  "sv": {
+    "title": "Om vårt innehåll",
+    "intro": "POA DUBAI publicerar praktiska guider om fullmakter och dokumentförfaranden för ärenden i UAE, för läsare både i landet och utomlands.",
+    "method": "Guiderna utgår från officiella källor och förklarar förberedelser, dokumentkrav och möjliga tillvägagångssätt. Relevanta källor länkas i varje guide så att du kan kontrollera kraven för din handling och dess användning.",
+    "sourcesTitle": "Källor och mer information",
+    "bankSource": "Förenade Arabemiratens centralbank",
+    "childrenSource": "Emirates: barn som reser ensamma",
+    "sourcesFAQ": "Vanliga frågor"
+  },
+  "de": {
+    "title": "Über unsere Inhalte",
+    "intro": "POA DUBAI veröffentlicht praktische Ratgeber zu Vollmachten und Dokumentenverfahren für Angelegenheiten in den VAE, für Leser im Land und im Ausland.",
+    "method": "Unsere Ratgeber stützen sich auf offizielle Quellen und erläutern Vorbereitung, Unterlagen und Verfahrenswege. Passende Quellen sind im jeweiligen Ratgeber verlinkt, damit Sie die Anforderungen für Ihr Dokument und dessen Verwendung prüfen können.",
+    "sourcesTitle": "Quellen und weitere Informationen",
+    "bankSource": "Zentralbank der VAE",
+    "childrenSource": "Emirates: alleinreisende Kinder",
+    "sourcesFAQ": "Häufige Fragen"
+  },
+  "fr": {
+    "title": "À propos de nos contenus",
+    "intro": "POA DUBAI publie des guides pratiques sur les procurations et les démarches documentaires liées aux EAU, pour les lecteurs sur place ou à l’étranger.",
+    "method": "Nos guides s’appuient sur des sources officielles et expliquent la préparation, les pièces requises et les démarches possibles. Les sources pertinentes sont liées dans chaque guide pour vous permettre de vérifier les exigences applicables à votre document et à son utilisation.",
+    "sourcesTitle": "Sources et informations complémentaires",
+    "bankSource": "Banque centrale des EAU",
+    "childrenSource": "Emirates : enfants voyageant seuls",
+    "sourcesFAQ": "Questions fréquentes"
+  },
+  "es": {
+    "title": "Acerca de nuestro contenido",
+    "intro": "POA DUBAI publica guías prácticas sobre poderes y trámites documentales relacionados con los EAU, para lectores dentro y fuera del país.",
+    "method": "Nuestras guías se basan en fuentes oficiales y explican la preparación, los documentos y las vías disponibles. Cada guía enlaza las fuentes pertinentes para que pueda comprobar los requisitos de su documento y del uso previsto.",
+    "sourcesTitle": "Fuentes e información adicional",
+    "bankSource": "Banco Central de los EAU",
+    "childrenSource": "Emirates: menores que viajan solos",
+    "sourcesFAQ": "Preguntas frecuentes"
+  },
+  "it": {
+    "title": "Informazioni sui nostri contenuti",
+    "intro": "POA DUBAI pubblica guide pratiche su procure e procedure documentali relative agli EAU, per chi si trova nel paese o all’estero.",
+    "method": "Le guide si basano su fonti ufficiali e spiegano preparazione, documenti e percorsi disponibili. Ogni guida rimanda alle fonti pertinenti per verificare i requisiti del documento e dell’uso previsto.",
+    "sourcesTitle": "Fonti e approfondimenti",
+    "bankSource": "Banca centrale degli EAU",
+    "childrenSource": "Emirates: minori che viaggiano da soli",
+    "sourcesFAQ": "Domande frequenti"
+  },
+  "pt": {
+    "title": "Sobre os nossos conteúdos",
+    "intro": "A POA DUBAI publica guias práticos sobre procurações e procedimentos documentais relacionados com os EAU, para leitores no país e no estrangeiro.",
+    "method": "Os guias baseiam-se em fontes oficiais e explicam a preparação, os documentos e os procedimentos disponíveis. Cada guia inclui ligações para as fontes pertinentes, permitindo verificar os requisitos do documento e da utilização prevista.",
+    "sourcesTitle": "Fontes e informações adicionais",
+    "bankSource": "Banco Central dos EAU",
+    "childrenSource": "Emirates: menores que viajam sozinhos",
+    "sourcesFAQ": "Perguntas frequentes"
+  },
+  "nl": {
+    "title": "Over onze inhoud",
+    "intro": "POA DUBAI publiceert praktische gidsen over volmachten en documentprocedures voor zaken in de VAE, voor lezers in het land en daarbuiten.",
+    "method": "Onze gidsen zijn gebaseerd op officiële bronnen en leggen voorbereiding, documentvereisten en mogelijke procedures uit. Elke gids bevat links naar relevante bronnen, zodat u de eisen voor uw document en het beoogde gebruik kunt controleren.",
+    "sourcesTitle": "Bronnen en meer informatie",
+    "bankSource": "Centrale Bank van de VAE",
+    "childrenSource": "Emirates: alleenreizende kinderen",
+    "sourcesFAQ": "Veelgestelde vragen"
+  },
+  "pl": {
+    "title": "O naszych treściach",
+    "intro": "POA DUBAI publikuje praktyczne poradniki o pełnomocnictwach i procedurach dotyczących dokumentów w sprawach związanych z ZEA, dla czytelników w kraju i za granicą.",
+    "method": "Poradniki opierają się na oficjalnych źródłach i wyjaśniają przygotowanie, wymagane dokumenty oraz dostępne procedury. Każdy zawiera odnośniki do odpowiednich źródeł, by umożliwić sprawdzenie wymagań dla dokumentu i jego przeznaczenia.",
+    "sourcesTitle": "Źródła i dodatkowe informacje",
+    "bankSource": "Bank Centralny ZEA",
+    "childrenSource": "Emirates: dzieci podróżujące samodzielnie",
+    "sourcesFAQ": "Najczęstsze pytania"
+  },
+  "ro": {
+    "title": "Despre conținutul nostru",
+    "intro": "POA DUBAI publică ghiduri practice despre procuri și proceduri documentare pentru chestiuni legate de EAU, pentru cititorii din țară și din străinătate.",
+    "method": "Ghidurile se bazează pe surse oficiale și explică pregătirea, documentele și procedurile disponibile. Fiecare ghid include legături către sursele relevante pentru a putea verifica cerințele documentului și ale utilizării sale.",
+    "sourcesTitle": "Surse și informații suplimentare",
+    "bankSource": "Banca Centrală a EAU",
+    "childrenSource": "Emirates: copii care călătoresc singuri",
+    "sourcesFAQ": "Întrebări frecvente"
+  },
+  "el": {
+    "title": "Σχετικά με το περιεχόμενό μας",
+    "intro": "Το POA DUBAI δημοσιεύει πρακτικούς οδηγούς για πληρεξούσια και διαδικασίες εγγράφων που αφορούν υποθέσεις στα ΗΑΕ, για αναγνώστες εντός και εκτός της χώρας.",
+    "method": "Οι οδηγοί βασίζονται σε επίσημες πηγές και εξηγούν την προετοιμασία, τα απαιτούμενα έγγραφα και τις διαθέσιμες διαδικασίες. Κάθε οδηγός παραπέμπει στις σχετικές πηγές ώστε να ελέγχετε τις απαιτήσεις για το έγγραφο και τη χρήση του.",
+    "sourcesTitle": "Πηγές και πρόσθετες πληροφορίες",
+    "bankSource": "Κεντρική Τράπεζα των ΗΑΕ",
+    "childrenSource": "Emirates: παιδιά που ταξιδεύουν μόνα",
+    "sourcesFAQ": "Συχνές ερωτήσεις"
+  },
+  "cs": {
+    "title": "O našem obsahu",
+    "intro": "POA DUBAI zveřejňuje praktické průvodce plnými mocemi a postupy pro dokumenty v záležitostech SAE, pro čtenáře v zemi i v zahraničí.",
+    "method": "Průvodci vycházejí z oficiálních zdrojů a vysvětlují přípravu, potřebné dokumenty a dostupné postupy. U každého jsou odkazy na příslušné zdroje, kde si můžete ověřit požadavky pro dokument a jeho zamýšlené použití.",
+    "sourcesTitle": "Zdroje a další informace",
+    "bankSource": "Centrální banka SAE",
+    "childrenSource": "Emirates: děti cestující bez doprovodu",
+    "sourcesFAQ": "Časté dotazy"
+  },
+  "da": {
+    "title": "Om vores indhold",
+    "intro": "POA DUBAI udgiver praktiske vejledninger om fuldmagter og dokumentprocedurer i sager vedrørende UAE, for læsere både i landet og i udlandet.",
+    "method": "Vejledningerne bygger på officielle kilder og forklarer forberedelse, dokumentkrav og mulige fremgangsmåder. Hver vejledning linker til relevante kilder, så du kan kontrollere kravene til dit dokument og dets anvendelse.",
+    "sourcesTitle": "Kilder og mere information",
+    "bankSource": "UAE’s centralbank",
+    "childrenSource": "Emirates: børn, der rejser alene",
+    "sourcesFAQ": "Ofte stillede spørgsmål"
+  },
+  "fi": {
+    "title": "Tietoa sisällöstämme",
+    "intro": "POA DUBAI julkaisee käytännön oppaita valtakirjoista ja asiakirjamenettelyistä Arabiemiirikuntiin liittyvissä asioissa sekä maassa että ulkomailla oleville lukijoille.",
+    "method": "Oppaat perustuvat virallisiin lähteisiin ja selittävät valmistelut, asiakirjavaatimukset ja mahdolliset menettelyt. Kunkin oppaan lähdelinkeistä voit tarkistaa asiakirjaasi ja sen käyttötarkoitusta koskevat vaatimukset.",
+    "sourcesTitle": "Lähteet ja lisätietoa",
+    "bankSource": "Arabiemiirikuntien keskuspankki",
+    "childrenSource": "Emirates: yksin matkustavat lapset",
+    "sourcesFAQ": "Usein kysytyt kysymykset"
+  },
+  "hu": {
+    "title": "Tartalmainkról",
+    "intro": "A POA DUBAI gyakorlati útmutatókat közöl meghatalmazásokról és az EAE ügyeihez kapcsolódó iratkezelési eljárásokról, az országban és külföldön élő olvasóknak.",
+    "method": "Az útmutatók hivatalos forrásokra épülnek, és bemutatják az előkészületeket, az iratkövetelményeket és az eljárásokat. Minden útmutató hivatkozik a vonatkozó forrásokra, ahol ellenőrizheti az adott iratra és felhasználásra érvényes követelményeket.",
+    "sourcesTitle": "Források és további információk",
+    "bankSource": "Az EAE központi bankja",
+    "childrenSource": "Emirates: egyedül utazó gyermekek",
+    "sourcesFAQ": "Gyakori kérdések"
+  },
+  "bg": {
+    "title": "За нашето съдържание",
+    "intro": "POA DUBAI публикува практически ръководства за пълномощни и процедури за документи по въпроси, свързани с ОАЕ, за читатели в страната и чужбина.",
+    "method": "Ръководствата се основават на официални източници и обясняват подготовката, документите и възможните процедури. Всяко съдържа връзки към съответните източници, за да проверите изискванията за документа и предназначението му.",
+    "sourcesTitle": "Източници и допълнителна информация",
+    "bankSource": "Централна банка на ОАЕ",
+    "childrenSource": "Emirates: деца, пътуващи сами",
+    "sourcesFAQ": "Често задавани въпроси"
+  },
+  "hr": {
+    "title": "O našem sadržaju",
+    "intro": "POA DUBAI objavljuje praktične vodiče o punomoćima i postupcima za dokumente u predmetima povezanima s UAE-om, za čitatelje u zemlji i inozemstvu.",
+    "method": "Vodiči se temelje na službenim izvorima i objašnjavaju pripremu, potrebne dokumente i moguće postupke. Svaki vodič sadrži poveznice na relevantne izvore kako biste provjerili zahtjeve za svoj dokument i njegovu namjenu.",
+    "sourcesTitle": "Izvori i dodatne informacije",
+    "bankSource": "Središnja banka UAE-a",
+    "childrenSource": "Emirates: djeca koja putuju sama",
+    "sourcesFAQ": "Česta pitanja"
+  },
+  "sk": {
+    "title": "O našom obsahu",
+    "intro": "POA DUBAI zverejňuje praktických sprievodcov plnomocenstvami a postupmi pre dokumenty v záležitostiach SAE, pre čitateľov v krajine aj v zahraničí.",
+    "method": "Sprievodcovia vychádzajú z oficiálnych zdrojov a vysvetľujú prípravu, potrebné dokumenty a dostupné postupy. Každý obsahuje odkazy na príslušné zdroje, kde si môžete overiť požiadavky na dokument a jeho zamýšľané použitie.",
+    "sourcesTitle": "Zdroje a ďalšie informácie",
+    "bankSource": "Centrálna banka SAE",
+    "childrenSource": "Emirates: deti cestujúce bez sprievodu",
+    "sourcesFAQ": "Časté otázky"
+  },
+  "sl": {
+    "title": "O naši vsebini",
+    "intro": "POA DUBAI objavlja praktične vodnike o pooblastilih in postopkih za dokumente v zadevah, povezanih z ZAE, za bralce v državi in tujini.",
+    "method": "Vodniki temeljijo na uradnih virih ter pojasnjujejo pripravo, potrebne dokumente in možne postopke. Vsak vsebuje povezave do ustreznih virov, kjer lahko preverite zahteve za svoj dokument in njegovo uporabo.",
+    "sourcesTitle": "Viri in dodatne informacije",
+    "bankSource": "Centralna banka ZAE",
+    "childrenSource": "Emirates: otroci, ki potujejo sami",
+    "sourcesFAQ": "Pogosta vprašanja"
+  },
+  "et": {
+    "title": "Meie sisust",
+    "intro": "POA DUBAI avaldab praktilisi juhendeid volikirjade ja dokumendimenetluste kohta AÜE-ga seotud asjades, nii riigis kui ka välismaal viibivatele lugejatele.",
+    "method": "Juhendid põhinevad ametlikel allikatel ning selgitavad ettevalmistust, dokumendinõudeid ja võimalikke menetlusi. Igas juhendis on lingid asjakohastele allikatele, kust saate kontrollida oma dokumendi ja selle kasutamise nõudeid.",
+    "sourcesTitle": "Allikad ja lisateave",
+    "bankSource": "AÜE keskpank",
+    "childrenSource": "Emirates: üksi reisivad lapsed",
+    "sourcesFAQ": "Korduma kippuvad küsimused"
+  },
+  "lv": {
+    "title": "Par mūsu saturu",
+    "intro": "POA DUBAI publicē praktiskus ceļvežus par pilnvarām un dokumentu procedūrām AAE lietās lasītājiem gan valstī, gan ārvalstīs.",
+    "method": "Ceļveži balstās uz oficiāliem avotiem un skaidro sagatavošanos, dokumentu prasības un iespējamos procesus. Katrā ir saites uz attiecīgajiem avotiem, lai varētu pārbaudīt prasības savam dokumentam un tā paredzētajai izmantošanai.",
+    "sourcesTitle": "Avoti un papildu informācija",
+    "bankSource": "AAE Centrālā banka",
+    "childrenSource": "Emirates: bērni, kas ceļo vieni",
+    "sourcesFAQ": "Biežāk uzdotie jautājumi"
+  },
+  "lt": {
+    "title": "Apie mūsų turinį",
+    "intro": "POA DUBAI skelbia praktinius vadovus apie įgaliojimus ir dokumentų procedūras su JAE susijusiais klausimais skaitytojams šalyje ir užsienyje.",
+    "method": "Vadovai remiasi oficialiais šaltiniais ir paaiškina pasirengimą, dokumentų reikalavimus ir galimas procedūras. Kiekviename pateikiamos nuorodos į atitinkamus šaltinius, kad galėtumėte patikrinti savo dokumentui ir jo paskirčiai taikomus reikalavimus.",
+    "sourcesTitle": "Šaltiniai ir papildoma informacija",
+    "bankSource": "JAE centrinis bankas",
+    "childrenSource": "Emirates: vieni keliaujantys vaikai",
+    "sourcesFAQ": "Dažnai užduodami klausimai"
+  },
+  "mt": {
+    "title": "Dwar il-kontenut tagħna",
+    "intro": "POA DUBAI jippubblika gwidi prattiċi dwar prokuri u proċeduri tad-dokumenti għal affarijiet marbuta mal-EAU, għal qarrejja fil-pajjiż u barra minnu.",
+    "method": "Il-gwidi huma bbażati fuq sorsi uffiċjali u jispjegaw it-tħejjija, ir-rekwiżiti tad-dokumenti u l-proċeduri disponibbli. Kull gwida tinkludi links għas-sorsi rilevanti biex tkun tista’ tiċċekkja r-rekwiżiti għad-dokument u l-użu tiegħu.",
+    "sourcesTitle": "Sorsi u aktar informazzjoni",
+    "bankSource": "Il-Bank Ċentrali tal-EAU",
+    "childrenSource": "Emirates: tfal li jivvjaġġaw waħedhom",
+    "sourcesFAQ": "Mistoqsijiet frekwenti"
+  },
+  "ga": {
+    "title": "Maidir lenár n-ábhar",
+    "intro": "Foilsíonn POA DUBAI treoracha praiticiúla faoi chumhachtaí aturnae agus nósanna imeachta doiciméad i gcúrsaí a bhaineann leis an AEA, do léitheoirí sa tír agus thar lear.",
+    "method": "Tá na treoracha bunaithe ar fhoinsí oifigiúla agus míníonn siad ullmhúchán, riachtanais doiciméad agus na bealaí atá ar fáil. Tá naisc leis na foinsí cuí i ngach treoir chun gur féidir leat riachtanais do dhoiciméid agus a úsáide a sheiceáil.",
+    "sourcesTitle": "Foinsí agus tuilleadh eolais",
+    "bankSource": "Banc Ceannais an AEA",
+    "childrenSource": "Emirates: leanaí ag taisteal ina n-aonar",
+    "sourcesFAQ": "Ceisteanna coitianta"
+  },
+  "no": {
+    "title": "Om innholdet vårt",
+    "intro": "POA DUBAI publiserer praktiske veiledninger om fullmakter og dokumentprosedyrer i saker knyttet til UAE, for lesere både i landet og i utlandet.",
+    "method": "Veiledningene bygger på offisielle kilder og forklarer forberedelser, dokumentkrav og mulige fremgangsmåter. Hver veiledning lenker til relevante kilder, slik at du kan sjekke kravene til dokumentet ditt og bruken av det.",
+    "sourcesTitle": "Kilder og mer informasjon",
+    "bankSource": "UAEs sentralbank",
+    "childrenSource": "Emirates: barn som reiser alene",
+    "sourcesFAQ": "Vanlige spørsmål"
+  },
+  "tr": {
+    "title": "İçeriğimiz hakkında",
+    "intro": "POA DUBAI, BAE ile ilgili işlemlerde vekâletnameler ve belge süreçleri hakkında, ülkedeki ve yurt dışındaki okuyucular için pratik rehberler yayımlar.",
+    "method": "Rehberlerimiz resmî kaynaklara dayanır; hazırlık adımlarını, belge gerekliliklerini ve işlem yollarını açıklar. Her rehberde ilgili kaynaklara bağlantılar bulunur; böylece belgeniz ve kullanım amacı için geçerli şartları kontrol edebilirsiniz.",
+    "sourcesTitle": "Kaynaklar ve ek bilgiler",
+    "bankSource": "BAE Merkez Bankası",
+    "childrenSource": "Emirates: yalnız seyahat eden çocuklar",
+    "sourcesFAQ": "Sık sorulan sorular"
+  },
+  "sr": {
+    "title": "O našem sadržaju",
+    "intro": "POA DUBAI objavljuje praktične vodiče o punomoćjima i postupcima za dokumente u predmetima povezanim sa UAE, za čitaoce u zemlji i inostranstvu.",
+    "method": "Vodiči se zasnivaju na zvaničnim izvorima i objašnjavaju pripremu, potrebne dokumente i moguće postupke. Svaki vodič sadrži veze ka relevantnim izvorima kako biste proverili zahteve za svoj dokument i njegovu namenu.",
+    "sourcesTitle": "Izvori i dodatne informacije",
+    "bankSource": "Centralna banka UAE",
+    "childrenSource": "Emirates: deca koja putuju sama",
+    "sourcesFAQ": "Česta pitanja"
+  },
+  "uk": {
+    "title": "Про наші матеріали",
+    "intro": "POA DUBAI публікує практичні посібники про довіреності та процедури оформлення документів у справах, пов’язаних з ОАЕ, для читачів у країні та за кордоном.",
+    "method": "Посібники спираються на офіційні джерела й пояснюють підготовку, вимоги до документів і можливі процедури. Кожен містить посилання на відповідні джерела, щоб ви могли перевірити вимоги до свого документа та його використання.",
+    "sourcesTitle": "Джерела та додаткова інформація",
+    "bankSource": "Центральний банк ОАЕ",
+    "childrenSource": "Emirates: діти, які подорожують самі",
+    "sourcesFAQ": "Поширені запитання"
+  },
+  "sq": {
+    "title": "Rreth përmbajtjes sonë",
+    "intro": "POA DUBAI publikon udhëzues praktikë për prokurat dhe procedurat e dokumenteve në çështje që lidhen me EBA, për lexuesit në vend dhe jashtë tij.",
+    "method": "Udhëzuesit bazohen në burime zyrtare dhe shpjegojnë përgatitjen, kërkesat për dokumentet dhe procedurat e mundshme. Secili përmban lidhje me burimet përkatëse që të kontrolloni kërkesat për dokumentin tuaj dhe përdorimin e tij.",
+    "sourcesTitle": "Burime dhe informacion shtesë",
+    "bankSource": "Banka Qendrore e EBA",
+    "childrenSource": "Emirates: fëmijët që udhëtojnë vetëm",
+    "sourcesFAQ": "Pyetje të shpeshta"
+  },
+  "is": {
+    "title": "Um efnið okkar",
+    "intro": "POA DUBAI birtir hagnýtar leiðbeiningar um umboð og skjalameðferð vegna mála í SAF, fyrir lesendur bæði í landinu og erlendis.",
+    "method": "Leiðbeiningarnar byggja á opinberum heimildum og útskýra undirbúning, skjalakröfur og mögulegar leiðir. Hver leiðbeining hefur tengla á viðeigandi heimildir svo þú getir kannað kröfur um skjalið þitt og fyrirhugaða notkun þess.",
+    "sourcesTitle": "Heimildir og frekari upplýsingar",
+    "bankSource": "Seðlabanki SAF",
+    "childrenSource": "Emirates: börn sem ferðast ein",
+    "sourcesFAQ": "Algengar spurningar"
+  },
+  "ru": {
+    "title": "О наших материалах",
+    "intro": "POA DUBAI публикует практические руководства по доверенностям и оформлению документов для дел, связанных с ОАЭ, для читателей в стране и за рубежом.",
+    "method": "Руководства опираются на официальные источники и объясняют подготовку, требования к документам и возможные процедуры. В каждом есть ссылки на соответствующие источники, чтобы вы могли проверить требования к документу и его использованию.",
+    "sourcesTitle": "Источники и дополнительная информация",
+    "bankSource": "Центральный банк ОАЭ",
+    "childrenSource": "Emirates: дети, путешествующие без сопровождения",
+    "sourcesFAQ": "Частые вопросы"
+  }
+}

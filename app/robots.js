@@ -14,6 +14,6 @@ export default function robots() {
         disallow: ['/api/'],
       },
     ],
-    sitemap: `${DOMAIN}/sitemap.xml`,
+    sitemap: [`${DOMAIN}/sitemap.xml`, `${DOMAIN}/sitemap-all.xml`],
   };
 }

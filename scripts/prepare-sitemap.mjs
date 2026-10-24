@@ -16,7 +16,7 @@ async function loadJs(root, path, replacements = []) {
   const url = `data:text/javascript;base64,${Buffer.from(code).toString('base64')}`;
   return {module: await import(url), url};
 }
-export async function collectInputs(root = defaultRoot, origin = 'https://poadubai.eu') {
+export async function collectInputs(root = defaultRoot, origin = 'https://www.poadubai.eu') {
   const files = ['lib/langs.json','lib/serviceResearch.json','lib/uiCopy.json','lib/aboutCopy.json','lib/editorialCopy.json','lib/serviceSeo.json','lib/serviceScopeCopy.json','lib/guidePages.json','lib/marketProfiles.json','lib/seoCopy.json','lib/articleSources.json','content/blog.json'];
   const [langs, research, ui, about, editorial, seo, scope, guides, markets, seoCopy, sources, blog] = await Promise.all(files.map(path => readJson(root, path, {})));
   const {module: catalog, url} = await loadJs(root, 'lib/serviceCatalog.js');
@@ -90,7 +90,8 @@ export async function collectInputs(root = defaultRoot, origin = 'https://poadub
 }
 
 export async function prepareSitemap({root = defaultRoot, previous, fetchHistory = true, now = new Date(), fetcher = fetch} = {}) {
-  const origin = 'https://poadubai.eu';
+  const origin = 'https://www.poadubai.eu';
+  const legacyOrigin = 'https://poadubai.eu';
   let historyStatus = previous ? 'provided' : 'baseline';
   let historyError;
   if (previous === undefined && fetchHistory) {
@@ -100,7 +101,7 @@ export async function prepareSitemap({root = defaultRoot, previous, fetchHistory
         const text = await response.text();
         if (text.length > 5_000_000) throw new Error('History response too large');
         const candidate = JSON.parse(text);
-        if (!validState(candidate, origin, now)) throw new Error('Invalid published sitemap history');
+        if (!validState(candidate, origin, now) && !validState(candidate, legacyOrigin, now)) throw new Error('Invalid published sitemap history');
         previous = candidate;
         historyStatus = 'published';
       } else if (response.status !== 404) throw new Error(`History HTTP ${response.status}`);
@@ -112,13 +113,25 @@ export async function prepareSitemap({root = defaultRoot, previous, fetchHistory
   // Local builds can retain history. Vercel always prefers the actual production deployment.
   if (previous === undefined && !process.env.VERCEL) {
     const cached = await readJson(root, 'public/sitemap-state.json', null);
-    if (validState(cached, origin, now) && Object.keys(cached.pages).length) {
+    if ((validState(cached, origin, now) || validState(cached, legacyOrigin, now)) && Object.keys(cached.pages).length) {
       previous = cached;
       historyStatus = 'local';
     }
   }
   if (historyError && !previous) throw new Error(`[sitemap] Cannot preserve published history: ${historyError.message}. Retry the build when /sitemap-state.json is reachable; existing deployment is unaffected.`);
   const inputs = await collectInputs(root, origin);
+  if (previous?.origin === legacyOrigin) {
+    if (!validState(previous, legacyOrigin, now)) throw new Error('Invalid legacy sitemap history');
+    // A hostname change is not an editorial update. Rebase fingerprints only
+    // where the actual page content still matches the published legacy input.
+    const legacyInputs = await collectInputs(root, legacyOrigin);
+    const pages = Object.fromEntries(Object.entries(previous.pages).map(([path, page]) => {
+      const unchanged = legacyInputs[path] && inputs[path]
+        && page.hash === fingerprint(legacyInputs[path].content);
+      return [path, unchanged ? {...page, hash:fingerprint(inputs[path].content)} : page];
+    }));
+    previous = {...previous, origin, pages};
+  }
   const state = {...mergeState(inputs, previous, origin, now), historyStatus};
   const target = resolve(root, 'public/sitemap-state.json');
   await mkdir(dirname(target), {recursive:true});

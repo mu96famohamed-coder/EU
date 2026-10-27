@@ -36,22 +36,9 @@ export default function HeaderClient({lang,m,u,t,categories,services,aboutTitle}
  @media(max-width:600px){.lux-header .brand-logo-image{width:38px;height:38px;}}
  @media(max-width:560px){.lux-header .brand-logo-image{width:35px;height:35px;}}
 
- .hero-shell .hero-actions .btn.whatsapp-primary.whatsapp-site-cta {
-  display: flex !important; align-items: center; justify-content: center;
-  width: 260px !important; max-width: 100% !important; min-width: 0 !important;
-  flex: 0 1 260px !important; min-height: 52px !important; height: auto !important;
-  padding: 12px 18px !important; font-size: 15px !important;
-  white-space: normal !important; overflow-wrap: anywhere; word-break: normal;
-  line-height: 1.4 !important; text-align: center; box-sizing: border-box; gap: 9px;
- }
  .hero-shell .hero-actions .btn.whatsapp-primary.whatsapp-site-cta::before {
   position: static !important; inset: auto !important; transform: none !important;
   flex: 0 0 20px; width: 20px; height: 20px;
- }
- @media (max-width: 600px) {
-  .hero-shell .hero-actions .btn.whatsapp-primary.whatsapp-site-cta {
-   width: 100% !important; flex-basis: 100% !important;
-  }
  }
 `}</style>
   <Link className="logo" href={`/${lang}`} onClick={close} aria-label={BRAND.name}><Image className="brand-logo-image" src="/images/brand/logo.png" alt="" width={42} height={42} sizes="(max-width: 560px) 35px, (max-width: 600px) 38px, 42px" priority /><span className="brand-copy"><b>POA DUBAI</b><small>{text(u.euUae)}</small></span></Link>

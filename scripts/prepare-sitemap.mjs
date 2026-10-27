@@ -56,7 +56,7 @@ export async function collectInputs(root = defaultRoot, origin = 'https://www.po
       const r = research[slug]?.[lang] || research[slug]?.en;
       return {slug, category: row?.[1], title: r?.title || row?.[2], summary: r?.shortDescription || row?.[3]};
     });
-    add(`/${lang}`, {main: pick(m, ['t','h1','sub','sh','ph','st','note']), ui: pick(u, ['remote','euUae','inside','multilingual','directory','directoryIntro','categories','simple','preFaqWhatsapp','faqPrompt']), authorities: pick(about[lang], ['authorities','authoritiesTitle','authoritiesCta']), cards});
+    add(`/${lang}`, {main: pick(m, ['t','h1','sub','sh','ph','st','note']), ui: pick(u, ['remote','euUae','inside','homeCoverage','multilingual','directory','directoryIntro','categories','simple','preFaqWhatsapp','faqPrompt']), authorities: pick(about[lang], ['authorities','authoritiesTitle','authoritiesCta']), cards});
     add(`/${lang}/about`, {about: about[lang], editorial: editorial[lang]});
     add(`/${lang}/contact`, {lead: m.sub, form: pick(u, ['contactBrand','contact','form','independent']), services: cards.map(({slug,title}) => ({slug,title})), seo: seoCopy[lang]?.[0]});
     add(`/${lang}/faq`, {faq: m.faq, lead: m.sub, title: m.faqLabel || u.faq, seo: seoCopy[lang]?.[1]});

@@ -1,5 +1,6 @@
 {
   "en": {
+    "homeCoverage": "From outside or within the UAE",
     "explore": "Explore all services",
     "remote": "Remote-first",
     "euUae": "Outside UAE → UAE",
@@ -55,6 +56,7 @@
     }
   },
   "sv": {
+    "homeCoverage": "Från utlandet eller inom Förenade Arabemiraten",
     "explore": "Se alla tjänster",
     "remote": "Distans i första hand",
     "euUae": "Utanför UAE → UAE",
@@ -111,6 +113,7 @@
     "scopeNote": "Oberoende samordningstjänst. Notariella och andra förbehållna förfaranden utförs av den behöriga myndigheten eller en yrkesutövare med lämplig licens, beroende på ärendet. Varje ärende offereras skriftligt innan arbetet börjar."
   },
   "ar": {
+    "homeCoverage": "من خارج الإمارات أو من داخلها",
     "explore": "استعرض جميع الخدمات",
     "remote": "خدمات عن بُعد",
     "euUae": "من خارج الإمارات إلى داخلها",
@@ -166,6 +169,7 @@
     }
   },
   "de": {
+    "homeCoverage": "Aus dem Ausland oder innerhalb der VAE",
     "explore": "Alle Leistungen ansehen",
     "remote": "Ortsunabhängig",
     "euUae": "Außerhalb der VAE → VAE",
@@ -222,6 +226,7 @@
     "scopeNote": "Unabhängiger Koordinationsservice. Notarielle und andere vorbehaltene Verfahren werden – je nach Vorgang – von der zuständigen Behörde oder einer entsprechend zugelassenen Fachperson durchgeführt. Für jede Anfrage erhalten Sie vor Arbeitsbeginn ein schriftliches Angebot."
   },
   "fr": {
+    "homeCoverage": "Depuis l’étranger ou depuis les Émirats arabes unis",
     "explore": "Voir tous les services",
     "remote": "À distance d’abord",
     "euUae": "Hors EAU → EAU",
@@ -278,6 +283,7 @@
     "scopeNote": "Service de coordination indépendant. Les actes notariaux et autres procédures réservées sont accomplis, selon l’opération, par l’autorité compétente ou un professionnel dûment agréé. Chaque demande fait l’objet d’un devis écrit avant le début des travaux."
   },
   "nl": {
+    "homeCoverage": "Vanuit het buitenland of vanuit de VAE",
     "explore": "Bekijk alle diensten",
     "remote": "Op afstand",
     "euUae": "Buiten de VAE → VAE",
@@ -334,6 +340,7 @@
     "scopeNote": "Onafhankelijke coördinatiedienst. Notariële en andere voorbehouden handelingen worden, afhankelijk van de zaak, verricht door de bevoegde instantie of een daartoe erkende professional. Voor elke aanvraag ontvangt u een schriftelijke offerte voordat het werk begint."
   },
   "da": {
+    "homeCoverage": "Fra udlandet eller fra De Forenede Arabiske Emirater",
     "explore": "Se alle ydelser",
     "remote": "Primært på afstand",
     "euUae": "Uden for UAE → UAE",
@@ -390,6 +397,7 @@
     "scopeNote": "Uafhængig koordineringstjeneste. Notarielle og andre forbeholdte procedurer udføres af den kompetente myndighed eller en fagperson med den relevante autorisation, afhængigt af sagen. Hver sag får et skriftligt tilbud, før arbejdet går i gang."
   },
   "no": {
+    "homeCoverage": "Fra utlandet eller fra De forente arabiske emirater",
     "explore": "Se alle tjenester",
     "remote": "Primært på avstand",
     "euUae": "Utenfor UAE → UAE",
@@ -446,6 +454,7 @@
     "scopeNote": "Uavhengig koordineringstjeneste. Notarielle og andre forbeholdte prosedyrer utføres av den kompetente myndigheten eller en fagperson med relevant autorisasjon, avhengig av saken. Hver sak får et skriftlig tilbud før arbeidet starter."
   },
   "fi": {
+    "homeCoverage": "Ulkomailta tai Yhdistyneistä arabiemiirikunnista",
     "explore": "Katso kaikki palvelut",
     "remote": "Ensisijaisesti etänä",
     "euUae": "UAE:n ulkopuolelta → UAE",
@@ -502,6 +511,7 @@
     "scopeNote": "Riippumaton koordinointipalvelu. Notaaritoimet ja muut varatut menettelyt suorittaa asiasta riippuen toimivaltainen viranomainen tai asianmukaisen luvan saanut ammattilainen. Jokaisesta pyynnöstä annetaan kirjallinen tarjous ennen työn aloittamista."
   },
   "es": {
+    "homeCoverage": "Desde el extranjero o desde los Emiratos Árabes Unidos",
     "explore": "Ver todos los servicios",
     "remote": "A distancia",
     "euUae": "Fuera de los EAU → EAU",
@@ -558,6 +568,7 @@
     "scopeNote": "Servicio de coordinación independiente. Los actos notariales y demás procedimientos reservados los realiza, según la operación, la autoridad competente o un profesional debidamente habilitado. Cada solicitud recibe un presupuesto por escrito antes de empezar."
   },
   "it": {
+    "homeCoverage": "Dall’estero o dagli Emirati Arabi Uniti",
     "explore": "Scopri tutti i servizi",
     "remote": "A distanza",
     "euUae": "Fuori dagli EAU → EAU",
@@ -614,6 +625,7 @@
     "scopeNote": "Servizio di coordinamento indipendente. Gli atti notarili e le altre procedure riservate sono svolti, a seconda dell’operazione, dall’autorità competente o da un professionista debitamente abilitato. Ogni richiesta riceve un preventivo scritto prima dell’inizio dei lavori."
   },
   "pt": {
+    "homeCoverage": "A partir do estrangeiro ou dos Emirados Árabes Unidos",
     "explore": "Ver todos os serviços",
     "remote": "À distância",
     "euUae": "Fora dos EAU → EAU",
@@ -670,6 +682,7 @@
     "scopeNote": "Serviço independente de coordenação. Os atos notariais e outros procedimentos reservados são realizados pela autoridade competente ou por um profissional devidamente habilitado, conforme o caso. Cada pedido recebe um orçamento por escrito antes do início do trabalho."
   },
   "pl": {
+    "homeCoverage": "Z zagranicy lub ze Zjednoczonych Emiratów Arabskich",
     "explore": "Zobacz wszystkie usługi",
     "remote": "Przede wszystkim zdalnie",
     "euUae": "Spoza ZEA → ZEA",
@@ -726,6 +739,7 @@
     "scopeNote": "Niezależna usługa koordynacyjna. Czynności notarialne i inne czynności zastrzeżone wykonuje właściwy organ lub odpowiednio licencjonowany specjalista, w zależności od sprawy. Każde zlecenie wyceniamy na piśmie przed rozpoczęciem pracy."
   },
   "ro": {
+    "homeCoverage": "Din străinătate sau din Emiratele Arabe Unite",
     "explore": "Vezi toate serviciile",
     "remote": "În primul rând la distanță",
     "euUae": "Din afara EAU → EAU",
@@ -782,6 +796,7 @@
     "scopeNote": "Serviciu independent de coordonare. Procedurile notariale și alte proceduri rezervate sunt efectuate, după caz, de autoritatea competentă sau de un profesionist autorizat corespunzător. Fiecare solicitare primește o ofertă de preț scrisă înainte de începerea lucrului."
   },
   "el": {
+    "homeCoverage": "Από το εξωτερικό ή από τα Ηνωμένα Αραβικά Εμιράτα",
     "explore": "Δείτε όλες τις υπηρεσίες",
     "remote": "Πρώτα εξ αποστάσεως",
     "euUae": "Εκτός ΗΑΕ → ΗΑΕ",
@@ -838,6 +853,7 @@
     "scopeNote": "Ανεξάρτητη υπηρεσία συντονισμού. Οι συμβολαιογραφικές και άλλες επιφυλασσόμενες διαδικασίες εκτελούνται, κατά περίπτωση, από την αρμόδια αρχή ή από κατάλληλα αδειοδοτημένο επαγγελματία. Για κάθε αίτημα δίνεται γραπτή προσφορά τιμής πριν ξεκινήσει η εργασία."
   },
   "cs": {
+    "homeCoverage": "Ze zahraničí nebo ze Spojených arabských emirátů",
     "explore": "Zobrazit všechny služby",
     "remote": "Primárně na dálku",
     "euUae": "Mimo SAE → SAE",
@@ -894,6 +910,7 @@
     "scopeNote": "Nezávislá koordinační služba. Notářské a další vyhrazené úkony provádí podle povahy věci příslušný orgán nebo náležitě licencovaný odborník. Každá žádost je před zahájením práce písemně naceněna."
   },
   "hu": {
+    "homeCoverage": "Külföldről vagy az Egyesült Arab Emírségekből",
     "explore": "Összes szolgáltatás megtekintése",
     "remote": "Elsősorban távolról",
     "euUae": "EAE-n kívülről → EAE",
@@ -950,6 +967,7 @@
     "scopeNote": "Független koordinációs szolgáltatás. A közjegyzői és más fenntartott eljárásokat az ügytől függően az illetékes hatóság vagy megfelelő engedéllyel rendelkező szakember végzi. Minden kérésre a munka megkezdése előtt írásos árajánlatot adunk."
   },
   "bg": {
+    "homeCoverage": "От чужбина или от Обединените арабски емирства",
     "explore": "Разгледайте всички услуги",
     "remote": "Предимно дистанционно",
     "euUae": "Извън ОАЕ → ОАЕ",
@@ -1006,6 +1024,7 @@
     "scopeNote": "Независима координационна услуга. Нотариалните и другите запазени процедури се извършват според случая от компетентния орган или от съответно лицензиран специалист. За всяка заявка се дава писмена оферта преди започване на работата."
   },
   "hr": {
+    "homeCoverage": "Iz inozemstva ili iz Ujedinjenih Arapskih Emirata",
     "explore": "Pogledajte sve usluge",
     "remote": "Prvenstveno na daljinu",
     "euUae": "Izvan UAE-a → UAE",
@@ -1062,6 +1081,7 @@
     "scopeNote": "Neovisna usluga koordinacije. Javnobilježničke i druge pridržane postupke, ovisno o slučaju, provodi nadležno tijelo ili odgovarajuće licencirani stručnjak. Za svaki zahtjev prije početka rada dajemo pisanu ponudu."
   },
   "sk": {
+    "homeCoverage": "Zo zahraničia alebo zo Spojených arabských emirátov",
     "explore": "Zobraziť všetky služby",
     "remote": "Primárne na diaľku",
     "euUae": "Mimo SAE → SAE",
@@ -1118,6 +1138,7 @@
     "scopeNote": "Nezávislá koordinačná služba. Notárske a ďalšie vyhradené úkony vykonáva podľa povahy veci príslušný orgán alebo náležite licencovaný odborník. Každá žiadosť je pred začatím práce písomne nacenená."
   },
   "sl": {
+    "homeCoverage": "Iz tujine ali iz Združenih arabskih emiratov",
     "explore": "Oglejte si vse storitve",
     "remote": "Predvsem na daljavo",
     "euUae": "Zunaj ZAE → ZAE",
@@ -1174,6 +1195,7 @@
     "scopeNote": "Neodvisna storitev usklajevanja. Notarske in druge pridržane postopke glede na primer izvede pristojni organ ali ustrezno licencirani strokovnjak. Za vsako zahtevo pred začetkom dela pripravimo pisno ponudbo."
   },
   "et": {
+    "homeCoverage": "Välismaalt või Araabia Ühendemiraatidest",
     "explore": "Vaadake kõiki teenuseid",
     "remote": "Eelkõige kaugteel",
     "euUae": "Väljaspool AÜE-d → AÜE",
@@ -1230,6 +1252,7 @@
     "scopeNote": "Sõltumatu koordineerimisteenus. Notariaalsed ja muud ainupädevusse kuuluvad toimingud teeb olenevalt asjast pädev asutus või vastava litsentsiga spetsialist. Iga taotluse kohta esitame enne töö algust kirjaliku hinnapakkumise."
   },
   "lv": {
+    "homeCoverage": "No ārvalstīm vai no Apvienotajiem Arābu Emirātiem",
     "explore": "Skatīt visus pakalpojumus",
     "remote": "Galvenokārt attālināti",
     "euUae": "Ārpus AAE → AAE",
@@ -1286,6 +1309,7 @@
     "scopeNote": "Neatkarīgs koordinēšanas pakalpojums. Notariālās un citas ekskluzīvās procedūras atkarībā no situācijas veic kompetentā iestāde vai atbilstoši licencēts speciālists. Katram pieprasījumam pirms darba sākšanas sniedzam rakstisku cenas piedāvājumu."
   },
   "lt": {
+    "homeCoverage": "Iš užsienio arba iš Jungtinių Arabų Emyratų",
     "explore": "Peržiūrėti visas paslaugas",
     "remote": "Pirmiausia nuotoliniu būdu",
     "euUae": "Iš užsienio → į JAE",
@@ -1342,6 +1366,7 @@
     "scopeNote": "Nepriklausoma koordinavimo paslauga. Notarines ir kitas išimtines procedūras, atsižvelgiant į situaciją, atlieka kompetentinga institucija arba atitinkamai licencijuotas specialistas. Kiekvienai užklausai prieš pradedant darbą pateikiame rašytinį kainos pasiūlymą."
   },
   "mt": {
+    "homeCoverage": "Minn barra l-Emirati Għarab Magħquda jew minn ġo fihom",
     "explore": "Ara s-servizzi kollha",
     "remote": "L-ewwel mill-bogħod",
     "euUae": "Barra l-UAE → UAE",
@@ -1398,6 +1423,7 @@
     "scopeNote": "Servizz indipendenti ta’ koordinazzjoni. Il-proċeduri notarili u proċeduri riżervati oħra jitwettqu, skont il-każ, mill-awtorità kompetenti jew minn professjonist liċenzjat kif xieraq. Kull talba tingħata kwotazzjoni bil-miktub qabel ma jibda x-xogħol."
   },
   "ga": {
+    "homeCoverage": "Ó thar lear nó ó laistigh d’Aontas na nÉimíríochtaí Arabacha",
     "explore": "Féach ar na seirbhísí go léir",
     "remote": "Cianda ar dtús",
     "euUae": "Lasmuigh den AEA → AEA",
@@ -1454,6 +1480,7 @@
     "scopeNote": "Seirbhís chomhordaithe neamhspleách. Is é an t-údarás inniúil nó gairmí a bhfuil ceadúnas cuí aige, de réir mar is infheidhme, a dhéanann nósanna imeachta nótaireachta agus nósanna imeachta forchoimeádta eile. Tugtar luachan i scríbhinn do gach iarratas sula dtosaítear ar an obair."
   },
   "tr": {
+    "homeCoverage": "Birleşik Arap Emirlikleri dışından veya içinden",
     "explore": "Tüm hizmetleri inceleyin",
     "remote": "Önce uzaktan",
     "euUae": "BAE dışı → BAE",
@@ -1510,6 +1537,7 @@
     "scopeNote": "Bağımsız koordinasyon hizmeti. Noterlik işlemleri ve yetkili kişilere ayrılmış diğer işlemler, duruma göre yetkili makam veya uygun lisansa sahip bir uzman tarafından yürütülür. Her talep için işe başlamadan önce yazılı fiyat teklifi verilir."
   },
   "sr": {
+    "homeCoverage": "Из иностранства или из Уједињених Арапских Емирата",
     "explore": "Pogledajte sve usluge",
     "remote": "Prvenstveno na daljinu",
     "euUae": "Van UAE → UAE",
@@ -1566,6 +1594,7 @@
     "scopeNote": "Nezavisna usluga koordinacije. Javnobeležničke i druge rezervisane postupke, u zavisnosti od slučaja, sprovodi nadležni organ ili odgovarajuće licencirani stručnjak. Za svaki zahtev pre početka rada dajemo pisanu ponudu."
   },
   "uk": {
+    "homeCoverage": "З-за кордону або з ОАЕ",
     "explore": "Переглянути всі послуги",
     "remote": "Насамперед дистанційно",
     "euUae": "З-за меж ОАЕ → ОАЕ",
@@ -1622,6 +1651,7 @@
     "scopeNote": "Незалежна координаційна послуга. Нотаріальні та інші зарезервовані процедури виконує компетентний орган або належно ліцензований фахівець, залежно від випадку. На кожен запит до початку роботи надається письмова пропозиція щодо вартості."
   },
   "sq": {
+    "homeCoverage": "Nga jashtë ose nga brenda Emirateve të Bashkuara Arabe",
     "explore": "Shiko të gjitha shërbimet",
     "remote": "Kryesisht në distancë",
     "euUae": "Jashtë EBA-së → EBA",
@@ -1678,6 +1708,7 @@
     "scopeNote": "Shërbim i pavarur koordinimi. Procedurat noteriale dhe procedurat e tjera të rezervuara kryhen, sipas rastit, nga autoriteti kompetent ose nga një profesionist i licencuar në mënyrë të përshtatshme. Për çdo kërkesë jepet ofertë me shkrim përpara se të nisë puna."
   },
   "is": {
+    "homeCoverage": "Frá útlöndum eða innan Sameinuðu arabísku furstadæmanna",
     "explore": "Skoða alla þjónustu",
     "remote": "Fyrst og fremst í fjarvinnslu",
     "euUae": "Utan SAF → SAF",
@@ -1734,6 +1765,7 @@
     "scopeNote": "Sjálfstæð samræmingarþjónusta. Gerðir lögbókanda og aðrar fráteknar aðgerðir eru framkvæmdar af lögbæru stjórnvaldi eða fagaðila með viðeigandi leyfi, eftir atvikum. Hver beiðni fær skriflegt verðtilboð áður en vinna hefst."
   },
   "ru": {
+    "homeCoverage": "Из-за рубежа или из ОАЭ",
     "explore": "Посмотреть все услуги",
     "remote": "Прежде всего дистанционно",
     "euUae": "Из-за пределов ОАЭ → ОАЭ",
